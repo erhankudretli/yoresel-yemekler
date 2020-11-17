@@ -1,0 +1,13 @@
+rkadaslar,
+
+Bu haftaki ödevimiz verilen bilgilere göre burc bulan bir programi icin flowchart olusturmak olacaktir.
+
+Programa dogum ayi ve dogum günü input olarak girilecek, program verilen degerleri isledikten sonra sonucu yazdiracaktir.
+
+Flowchart icin draw.io veya diagrams.net sitelerini kullanınız. 
+
+Kriterler: 
+1) Flowchartı doğru oluşturmak [-15]
+2) Algoritma adımlarında net bir dil kullanmak [-15]
+3) Isimlendirmelerin birden fazla manaya gelmemesine dikkat etme [-10]
+4) Ne kadar degisken (variables), dongu (loops) ve kosul (conditionals) oldugunun acikca belirtilmesi [-10]
